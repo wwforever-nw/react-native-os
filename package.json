@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aprock/react-native-os"
+    "url": "https://github.com/wwforever-nw/react-native-os"
   },
   "bundleDependencies": false,
   "deprecated": false,
@@ -17,7 +17,11 @@
     "babel-eslint": "^10.0.3",
     "eslint-plugin-react": "^3.11.3"
   },
-  "homepage": "https://github.com/aprock/react-native-os",
+  "author": {
+    "name": "wwforever-nw",
+    "email": "wwforever@neowiz.com"
+  },
+  "homepage": "https://github.com/wwforever-nw/react-native-os",
   "keywords": [
     "react-component",
     "reactnative",
@@ -28,9 +32,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aprock/react-native-os/issues"
+    "url": "https://github.com/wwforever-nw/react-native-os/issues"
   },
-  "homepage": "https://github.com/aprock/react-native-os",
+  "homepage": "https://github.com/wwforever-nw/react-native-os",
   "devDependencies": {
     "babel-eslint": "^4.1.6",
     "eslint-plugin-react": "^3.11.3"
